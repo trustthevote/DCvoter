@@ -1,0 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_rsVoters" value="name:last_name;datatype:string,name:first_name;datatype:string,name:middle_name;datatype:string,name:party;datatype:string,name:precinct_name;datatype:string,name:Full_address;datatype:string,name:city;datatype:string,name:state;datatype:string,name:zip;datatype:string,name:pin_id;datatype:string" />
+</info>

@@ -1,0 +1,258 @@
+#wrapper {
+	POSITION: relative; MARGIN-TOP: 10px; WIDTH: 950px; BACKGROUND: #f0f0f0; HEIGHT: 1100px; MARGIN-LEFT: auto; MARGIN-RIGHT: auto
+}
+#header {
+	BORDER-BOTTOM: white 10px solid; POSITION: relative; WIDTH: 950px; FLOAT: left; HEIGHT: 70px
+}
+#title {
+	POSITION: relative; PADDING-BOTTOM: 0px; PADDING-LEFT: 40px; WIDTH: 950px; PADDING-RIGHT: 0px; FLOAT: left; HEIGHT: 50px; PADDING-TOP: 20px
+}
+#maincontent {
+	POSITION: relative; PADDING-BOTTOM: 0px; MARGIN-TOP: 10px; PADDING-LEFT: 40px; WIDTH: 600px; PADDING-RIGHT: 30px; FLOAT: left; PADDING-TOP: 0px
+}
+#helpcontent {
+	POSITION: relative; PADDING-BOTTOM: 40px; LINE-HEIGHT: 24px; MARGIN-TOP: 10px; PADDING-LEFT: 0px; WIDTH: 260px; PADDING-RIGHT: 10px; BACKGROUND: #f0f0f0; FLOAT: left; HEIGHT: 840px; PADDING-TOP: 0px
+}
+#footer {
+	POSITION: absolute; PADDING-BOTTOM: 20px; PADDING-LEFT: 0px; WIDTH: 950px; PADDING-RIGHT: 0px; BACKGROUND: #f0f0f0; HEIGHT: 60px; TOP: 900px; PADDING-TOP: 0px
+}
+#overview #footer {
+	TOP: 1100px
+}
+#finishedpopup {
+	POSITION: fixed; TOP: 200px; LEFT: 400px
+}
+#confirmation {
+	WIDTH: 840px; MARGIN-BOTTOM: 40px; FLOAT: left; MARGIN-LEFT: 40px
+}
+#tabbar {
+	BACKGROUND-COLOR: white; WIDTH: 950px; HEIGHT: 50px
+}
+#select {
+	WIDTH: 130px; FLOAT: left
+}
+.resultcount {
+	WIDTH: 400px; FLOAT: left
+}
+#piechartcontainer {
+	WIDTH: 600px; FLOAT: left
+}
+#confirmrecord {
+	WIDTH: 600px; FLOAT: left
+}
+#otherlists {
+	WIDTH: 400px
+}
+#attestationcontainer {
+	WIDTH: 400px; MARGIN-BOTTOM: 20px; FLOAT: left
+}
+#idform {
+	WIDTH: 840px; FLOAT: left
+}
+#voterrecord {
+	WIDTH: 180px; FLOAT: left; HEIGHT: 250px; MARGIN-LEFT: 20px
+}
+#history {
+	FLOAT: left; MARGIN-LEFT: 40px
+}
+#confirmationpage #cancel {
+	DISPLAY: block
+}
+A {
+	COLOR: #0099ff; TEXT-DECORATION: none
+}
+A:hover {
+	COLOR: #007cff
+}
+OL {
+	LIST-STYLE-POSITION: inside; PADDING-LEFT: 0px
+}
+UL {
+	PADDING-BOTTOM: 0px; LINE-HEIGHT: 20px; MARGIN: 0px; PADDING-LEFT: 0px; PADDING-RIGHT: 0px; PADDING-TOP: 0px
+}
+TD {
+	PADDING-BOTTOM: 5px; PADDING-LEFT: 5px; PADDING-RIGHT: 5px; PADDING-TOP: 5px
+}
+.namelistoddrow {
+	BACKGROUND-COLOR: #e0e0e0
+}
+TABLE {
+	WIDTH: 600px; MARGIN-LEFT: -7px
+}
+.namecolumn {
+	WIDTH: 400px
+}
+.confirmcolumn {
+	WIDTH: 200px
+}
+#historytable {
+	WIDTH: 840px
+}
+.actioncolumn {
+	WIDTH: 200px
+}
+.timedatecolumn {
+	WIDTH: 200px
+}
+.leocolumn {
+	WIDTH: 200px
+}
+.commentcolumn {
+	WIDTH: 200px
+}
+.piecharts {
+	MARGIN-LEFT: 0px
+}
+#tabbar IMG {
+	PADDING-BOTTOM: 0px; MARGIN: 0px; PADDING-LEFT: 0px; PADDING-RIGHT: 0px; PADDING-TOP: 0px
+}
+#attestationimage {
+	BORDER-BOTTOM: white 4px solid; BORDER-LEFT: white 4px solid; BORDER-TOP: white 4px solid; BORDER-RIGHT: white 4px solid
+}
+#downloadballot IMG {
+	MARGIN-BOTTOM: 20px
+}
+#overviewtab {
+	FLOAT: left
+}
+#attestationtab {
+	FLOAT: left
+}
+#footerlogos {
+	FLOAT: right; MARGIN-RIGHT: 40px
+}
+BODY {
+	FONT-FAMILY: helvetica; COLOR: #404040; FONT-SIZE: 14px; TEXT-DECORATION: none
+}
+.bodybold {
+	FONT-WEIGHT: bold
+}
+P {
+	LINE-HEIGHT: 20px; MARGIN-TOP: 0px
+}
+H1 {
+	LINE-HEIGHT: 40px; FONT-FAMILY: helvetica; FONT-SIZE: 24px; FONT-WEIGHT: 100
+}
+H2 {
+	LINE-HEIGHT: 20px; FONT-FAMILY: helvetica; MARGIN-BOTTOM: 5px; FONT-SIZE: 14px; FONT-WEIGHT: normal
+}
+.inactivetext {
+	FLOAT: left; COLOR: #999999
+}
+.commentlabel {
+	MARGIN-BOTTOM: 3px
+}
+#comment {
+	PADDING-BOTTOM: 5px; PADDING-LEFT: 5px; PADDING-RIGHT: 5px; COLOR: gray; PADDING-TOP: 5px
+}
+#itemsperpage {
+	LINE-HEIGHT: 36px; FLOAT: left
+}
+#listnavigation A {
+	COLOR: black
+}
+#listnavigation A:hover {
+	COLOR: #007cff
+}
+.footertext {
+	PADDING-LEFT: 350px; WIDTH: 300px; FLOAT: left; COLOR: gray; FONT-SIZE: 12px; PADDING-TOP: 30px
+}
+#logintext {
+	TEXT-ALIGN: right; BACKGROUND-COLOR: white; WIDTH: 564px; PADDING-RIGHT: 20px; FLOAT: right; HEIGHT: 35px; PADDING-TOP: 5px
+}
+#warningtext {
+	MARGIN-TOP: 30px; WIDTH: 330px
+}
+#listnavigation {
+	MARGIN-TOP: 30px; WIDTH: 600px; FLOAT: left
+}
+.previouspage {
+	PADDING-BOTTOM: 0px; PADDING-LEFT: 0px; PADDING-RIGHT: 10px; FLOAT: left; PADDING-TOP: 0px
+}
+.nextpage {
+	PADDING-BOTTOM: 0px; PADDING-LEFT: 10px; PADDING-RIGHT: 0px; FLOAT: left; PADDING-TOP: 0px
+}
+.pagenumbers {
+	FLOAT: left
+}
+#otherlists {
+	FLOAT: left
+}
+#pagenavigation {
+	FLOAT: right; MARGIN-RIGHT: 10px
+}
+#resultsxofx {
+	FLOAT: left
+}
+FORM {
+	PADDING-TOP: 20px
+}
+FORM IMG {
+	DISPLAY: block; MARGIN-BOTTOM: 0px; FLOAT: left
+}
+FORM LABEL {
+	MARGIN-TOP: 5px; DISPLAY: block; MARGIN-BOTTOM: 20px
+}
+INPUT[type='textarea'] {
+	WIDTH: 265px; HEIGHT: 40px
+}
+#captchalabel {
+	PADDING-BOTTOM: 0px; WIDTH: 300px; FLOAT: left; HEIGHT: 55px; MARGIN-LEFT: 10px
+}
+#captchafield {
+	CLEAR: left
+}
+#attestationlist INPUT[type='button'] {
+	WIDTH: 110px; COLOR: white
+}
+#contactform INPUT[type='button'] {
+	WIDTH: 110px; COLOR: white
+}
+#finishedattestations INPUT[type='button'] {
+	WIDTH: 150px; COLOR: white
+}
+#attestationlist #nextstepbuttons INPUT[type='button'] {
+	BACKGROUND-COLOR: #8e8e8e; WIDTH: 90px; COLOR: white
+}
+INPUT[type='button'] {
+	BORDER-BOTTOM: medium none; BORDER-LEFT: medium none; BACKGROUND-COLOR: #666666; WIDTH: 120px; FONT-FAMILY: Helvetica; HEIGHT: 30px; COLOR: white; CLEAR: left; FONT-SIZE: 14px; BORDER-TOP: medium none; BORDER-RIGHT: medium none; font-color: white
+}
+#confirmid INPUT[type='button'] {
+	MARGIN-TOP: 242px; DISPLAY: block
+}
+#confirmrejectbuttons {
+	WIDTH: 250px; FLOAT: left
+}
+#nextstepbuttons {
+	WIDTH: 185px; FLOAT: right
+}
+INPUT[type='checkbox'] {
+	MARGIN: 1px 5px 0px 0px; WIDTH: 20px; FLOAT: left
+}
+INPUT[type='checkbox'] + LABEL {
+	MARGIN-TOP: 0px; FLOAT: left
+}
+INPUT[type='radio'] {
+	MARGIN: 1px 5px 0px 0px; WIDTH: 20px; DISPLAY: block; FLOAT: left
+}
+#confirmattestation {
+	WIDTH: 840px; FLOAT: left
+}
+#confirmrejectattestation {
+	WIDTH: 420px; FLOAT: left
+}
+#sortdropdownlist {
+	WIDTH: 150px; FLOAT: left
+}
+#comment {
+	WIDTH: 300px; HEIGHT: 100px; FONT-SIZE: 14px
+}
+#downloadballot {
+	WIDTH: 200px; FLOAT: left
+}
+FIELDSET {
+	BORDER-BOTTOM: medium none; BORDER-LEFT: medium none; PADDING-BOTTOM: 0px; MARGIN: 0px; PADDING-LEFT: 0px; WIDTH: 600px; PADDING-RIGHT: 0px; FLOAT: left; BORDER-TOP: medium none; BORDER-RIGHT: medium none; PADDING-TOP: 0px
+}
+#record {
+	WIDTH: 400px; FLOAT: left
+}

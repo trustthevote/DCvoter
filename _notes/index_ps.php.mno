@@ -1,0 +1,5 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_rsEt" value="name:ELECTION_TYPE_UID;datatype:int,name:ELECTION_TYPE_NAME;datatype:string,name:CREATE_DATE;datatype:date,name:CREATE_USER;datatype:string,name:LAST_CHANGE_DATE;datatype:date,name:LAST_CHANGE_USER;datatype:string,name:EXPIRATION_DATE;datatype:date" />
+	<infoitem key="UD_rsVoters" value="name:last_name;datatype:string,name:first_name;datatype:string,name:middle_name;datatype:string,name:party;datatype:string,name:precinct_name;datatype:string,name:Full_address;datatype:real,name:city;datatype:string,name:state;datatype:string,name:zip;datatype:string,name:pin_id;datatype:string" />
+</info>

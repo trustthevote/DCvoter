@@ -1,0 +1,5 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_rsBallot" value="name:CANDIDATE_ID;datatype:int,name:district_name;datatype:string,name:OFFICE_TITLE;datatype:string,name:ballot_name;datatype:string,name:party;datatype:string" />
+	<infoitem key="UD_rsPDFBallot" value="name:ballot_name;datatype:string,name:ballot_byte_string;datatype:blob" />
+</info>
